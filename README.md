@@ -25,6 +25,7 @@ JobPortal is a web application designed to help users find and apply for jobs, a
    git clone https://github.com/yourusername/jobportal.git
    cd jobportal
 ## Output
-![22](https://github.com/Rashikmoon/JobPortal/assets/153418665/003907d7-8879-4524-9260-d511978841d1)
-![Screenshot 2024-06-24 120250](https://github.com/Rashikmoon/JobPortal/assets/153418665/8c537d6e-f2cd-4eba-8b42-c0a97d97aa10)
 
+
+![Screenshot 2024-06-24 120250](https://github.com/Rashikmoon/rgvp_job_web/assets/153418665/43ff3276-51bc-41e9-a664-8f2d1eb134f5)
+![22](https://github.com/Rashikmoon/rgvp_job_web/assets/153418665/1d209136-4bfa-4e04-84e7-f7e49ad9cee3)
